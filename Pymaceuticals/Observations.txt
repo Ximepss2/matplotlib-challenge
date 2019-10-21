@@ -1,0 +1,5 @@
+Two observations I got from the graphics are:
+1. At first I thought the tumors would have a similar behavior at the end of the 45 days because, with the first three graphs we observed a similar tendency
+but at the end it was a completelly different resault so you can totally trust in what you see on graphics, yes it is helpfull but you need to analyze the numbers.
+2. The survival behavior are the same for all treatments, it decreases. But something we can easily observe in the graphic is that survival rate decreases faster 
+or slower in some tratments, it is very graphyc.
